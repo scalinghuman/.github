@@ -24,10 +24,10 @@ apps or sideload builds; others are shared source, notes or work in progress.
 ## In development
 
 - [Book Cricket](https://scalinghuman.ai/apps/book-cricket) — a nostalgic page-flip game.
-- [Ring Local](https://scalinghuman.ai/apps/ring-local.html) — direct Oura Ring 4 Bluetooth to iPhone.
-- [Strap Local](https://scalinghuman.ai/apps/strap-local.html) — direct WHOOP 5.0 Bluetooth to iPhone.
+- [Smart Ring Local](https://scalinghuman.ai/apps/ring-local.html) — direct Oura Ring 4 Bluetooth to iPhone.
+- [Smart Strap Local](https://scalinghuman.ai/apps/strap-local.html) — direct WHOOP 5.0 Bluetooth to iPhone.
 
-Ring Local and Strap Local are independent, unofficial personal-use experiments.
+Smart Ring Local and Smart Strap Local are independent, unofficial personal-use experiments.
 Native apps and hardware validation are pending. The project pages document their
 scope, limitations and rights-contact process.
 
