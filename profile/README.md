@@ -23,9 +23,9 @@ apps or sideload builds; others are shared source, notes or work in progress.
 
 ## In development
 
-- [Book Cricket](https://scalinghuman.ai/apps/book-cricket) — a nostalgic page-flip game.
-- [Smart Ring Local](https://scalinghuman.ai/apps/ring-local.html) — direct Oura Ring 4 Bluetooth to iPhone.
-- [Smart Strap Local](https://scalinghuman.ai/apps/strap-local.html) — direct WHOOP 5.0 Bluetooth to iPhone.
+- [Book Cricket](https://scalinghuman.ai/apps/book-cricket): a nostalgic page-flip game.
+- [Smart Ring Local](https://scalinghuman.ai/apps/ring-local.html): direct Oura Ring 4 Bluetooth to iPhone.
+- [Smart Strap Local](https://scalinghuman.ai/apps/strap-local.html): direct WHOOP 5.0 Bluetooth to iPhone.
 
 Smart Ring Local and Smart Strap Local are independent, unofficial personal-use experiments.
 Native apps and hardware validation are pending. The project pages document their
@@ -33,11 +33,11 @@ scope, limitations and rights-contact process.
 
 ## Where things live
 
-- **[experiments](https://github.com/scalinghuman/experiments)** — the personal
+- **[experiments](https://github.com/scalinghuman/experiments)**: the personal
   collection: project briefs, published source artifacts, guides and downloads.
-- **[website](https://github.com/scalinghuman/website)** — source for the public
+- **[website](https://github.com/scalinghuman/website)**: source for the public
   project directory, app pages, privacy and support.
-- **[.github](https://github.com/scalinghuman/.github)** — this organization overview.
+- **[.github](https://github.com/scalinghuman/.github)**: this organization overview.
 
 Some app implementations remain private. Public availability and licenses differ
 by project; the experiments repository uses a source-available license, not an
