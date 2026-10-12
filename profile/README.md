@@ -19,6 +19,7 @@ apps or sideload builds; others are shared source, notes or work in progress.
 | Food Scanner | [iPhone app and optional Glass companion](https://scalinghuman.ai/apps/foodscanner) |
 | Glasshole AI | [iPhone app and optional Glass companion](https://scalinghuman.ai/apps/glasshole) |
 | Kids Meal Mode | [Fire TV / Android TV sideload](https://scalinghuman.ai/apps/streaming-devices-kids-meal-mode) |
+| RT Library | [Community library catalog for iPhone and iPad](https://scalinghuman.ai/apps/rt-library) |
 | Local AI game experiment | [Offline-model evaluation and browser game](https://scalinghuman.ai/apps/qwen38-27b-eval) |
 
 ## In development
